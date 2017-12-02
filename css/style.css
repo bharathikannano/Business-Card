@@ -29,7 +29,7 @@ h3 {
 /* THE FRONT */
 
 .front {
-    background-image: url(../images/bharathikannan.jpg);
+    background-image: url(/tree/master/images/bharathikannan.jpg);
     background-size: cover;
 }
 
